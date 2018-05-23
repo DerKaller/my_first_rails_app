@@ -1,0 +1,30 @@
+/*Contact*/
+
+.container h1,h2,h3,p {
+  text-align: center;
+}
+
+body {
+  color: #D2691E;
+}
+
+.phone p {
+   padding-bottom: 20px;
+}
+
+.address h3 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+/*Typography Contact*/
+h1,
+h2,
+h3 {
+  font-family: 'Kavivanar', cursive;
+}
+
+
+
+
